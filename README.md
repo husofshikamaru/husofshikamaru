@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT & Book
 - 🌱 I’m currently learning Java
 - 💞️ I love Art , Coding , Cooking & Reading Book
-- 📫 How to reach me : https://facebook.com/YukihiraSouma.HUS
+- 📫 How to reach me : https://facebook.com/Alarm.HUS
 
 <!---
 husofshikamaru/husofshikamaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
